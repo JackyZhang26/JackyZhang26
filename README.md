@@ -7,4 +7,4 @@
 - 📫 How to reach me:
   - Academic communications: ymzhang23@mail.ustc.edu.cn
   - Others: jackyzhang26@outlook.com
-- 🌐 Here is my blog, and I will share my ideas on it: jackyzhang26.github.io
+- 🌐 Here is my blog, and I will share my ideas on it: [Jacky Zhang的博客](jackyzhang26.github.io)
